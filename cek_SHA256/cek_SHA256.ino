@@ -178,11 +178,7 @@ String SHA256(String data)
 
 void setup()
 {
-  Serial.begin(115200);
-  //this should return : f6774519d1c7a3389ef327e9c04766b999db8cdfb85d1346c471ee86d65885bc
-
-  
- 
+  Serial.begin(115200); 
 }
 
 void loop()
